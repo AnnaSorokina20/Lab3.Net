@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeLib", "OfficeLib\OfficeLib.csproj", "{4B12F26E-DA89-4500-AA67-C5B025ECE85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOffice", "TestOffice\TestOffice.csproj", "{F686D802-1DEE-4AA7-BBEE-0A016297E8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "Lab3\Lab3.csproj", "{82DA8555-E847-4930-AD93-AA6033834916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B12F26E-DA89-4500-AA67-C5B025ECE85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B12F26E-DA89-4500-AA67-C5B025ECE85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B12F26E-DA89-4500-AA67-C5B025ECE85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B12F26E-DA89-4500-AA67-C5B025ECE85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F686D802-1DEE-4AA7-BBEE-0A016297E8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F686D802-1DEE-4AA7-BBEE-0A016297E8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F686D802-1DEE-4AA7-BBEE-0A016297E8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F686D802-1DEE-4AA7-BBEE-0A016297E8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DA8555-E847-4930-AD93-AA6033834916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DA8555-E847-4930-AD93-AA6033834916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DA8555-E847-4930-AD93-AA6033834916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DA8555-E847-4930-AD93-AA6033834916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB1B67D-40F3-4138-8E77-A528BB49B3C5}
+	EndGlobalSection
+EndGlobal
